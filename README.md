@@ -1,41 +1,22 @@
-# 🚀 Learning Roadmap
+# 📚 Learning Roadmap
 
-This repository represents my structured learning journey in software development, Artificial Intelligence, automation, and future DeFi applications.
+This repository tracks my learning journey in software development, AI, and automation.
 
-## 🎯 Main Goal
+## 🧠 Phase 1 — Python Fundamentals
+- Variables and data types
+- Conditionals
+- Loops
+- Functions
+- Basic projects (calculator, exercises)
 
-To become a highly skilled developer capable of building:
-- Automation systems
-- AI-powered tools
-- Financial/DeFi solutions
-- Real-world scalable projects
-
----
-
-## 📍 Phase 1 – Foundations (Current Focus)
-
-- Python fundamentals
-- Logic and problem-solving
-- Git & GitHub
-- Basic scripting and automation
-- Introduction to AI concepts
-
----
-
-## 📍 Phase 2 – Applied AI & Automation
-
-- Data handling with Python
+## 🤖 Phase 2 — Applied AI & Automation
+- Python automation scripts
 - APIs integration
-- Automation scripts
-- AI applied to real problems
-- Small real-world projects
+- Data analysis
+- AI fundamentals
 
----
-
-## 📍 Phase 3 – AI + DeFi Integration
-
-- Blockchain fundamentals
+## 💰 Phase 3 — AI + DeFi
+- Crypto data analysis
+- Trading bots
 - Smart contracts basics
-- AI-driven bots
-- Market analysis automation
-- Prototype financial tools
+- Real-world automation systems
